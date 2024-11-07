@@ -1,5 +1,5 @@
 # • Process
-- Preparation
+- Preparation: Developing policies, procedures, and incident response plans.
 - Detection
 - Analysis
 - Containment
