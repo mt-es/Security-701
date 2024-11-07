@@ -1,7 +1,7 @@
 • Process
 - Preparation: Developing policies, procedures, and incident response plans.
 - Detection: The process of identifying potential security incidents through monitoring tools, alerts, system logs. Effective detection requires robust monitoring and alerting systems to spot unusual activity early.
-- Analysis
+- Analysis: Once an incident is detected, it needs to be analyzed to understand its scope, impact, and nature. This involves gathering relevant data
 - Containment
 - Eradication
 - Recovery
