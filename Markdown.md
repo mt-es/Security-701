@@ -3,9 +3,9 @@
 - Detection: Monitor systems for abnormal activity, analyze alerts, and identify potential incidents promptly.
 - Analysis: Confirm the incident, determine its type and scope, and assess its potential impact through forensic investigation.
 - Containment: Implement short- and long-term measures to limit the spread of the incident and prevent further damage.
-- Eradication
-- Recovery
-- Lessons learned
+- Eradication: Remove all traces of the threat(e.g., malware, vulnerablities) from affected systems and ensure they are secure.
+- Recovery:
+- Lessons learned:
 # • Training
 # • Testing
 - Tabletop exercise
