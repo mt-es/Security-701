@@ -1,6 +1,6 @@
 # • Process
 - Preparation: Develop an incident response plan, train teams, deploy monitoring tools, and establish policies to ensure readiness.
-- Detection
+- Detection: Monitor systems for abnormal activity, analyze alerts, and identify potential incidents promptly.
 - Analysis
 - Containment
 - Eradication
