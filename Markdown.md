@@ -7,7 +7,7 @@
 - Recovery
 - Lessons learned
 ## • Training
-• Testing
+## • Testing
 - Tabletop exercise
 - Simulation
 ## • Root cause analysis
