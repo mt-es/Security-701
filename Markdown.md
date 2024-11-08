@@ -1,5 +1,5 @@
 # • Process
-- Preparation: Developing policies, procedures, and incident response plans.
+- Preparation: Develop an incident response plan, train teams, deploy monitoring tools, and establish policies to ensure readiness.
 - Detection
 - Analysis
 - Containment
