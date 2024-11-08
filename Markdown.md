@@ -6,13 +6,13 @@
 - Eradication
 - Recovery
 - Lessons learned
-## • Training
-## • Testing
+# • Training
+# • Testing
 - Tabletop exercise
 - Simulation
-## • Root cause analysis
-## • Threat hunting
-## • Digital forensics
+# • Root cause analysis
+# • Threat hunting
+# • Digital forensics
 - Legal hold
 - Chain of custody
 - Acquisition
