@@ -18,4 +18,4 @@
 - Acquisition: In the context of digital forensics and incident response, refers to the process of collecting data or evidence from a system or device in a manner that preserves its integrity and ensures it remains admissible for analysis or legal proceedings.
 - Reporting: In the context of incident response, digital foresics, or cybersecurity refers to the process of documenting and communicating the findings, actions, and outcomes related to a security incident, investigation, or forensic analysis.
 - Preservation: In the context of digital forensics and incident response refers to the process of maintaining the integrity of potential evidence, ensuring that it remains unchanged, uncorrupted, and accessible for analysis, legal proceedings, or regulatory compliance.
-- E-discovery
+- E-discovery: (Electronic discovery) refers to the process of identifying, collecting, reviewing, and producing electronically stored information (ESI) in response to legal or regulatory requests, typically as part of lititgation, investigations, or compliance requirements.
