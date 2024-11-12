@@ -17,5 +17,5 @@
 - Chain of custody: The process of documenting the movement and handling of evidence, ensuring its integrity from the moment it is collected until it is presented in court or used in an investigation. Is it critical in legal, forensic, and regulatory contexts to ensure that evidence has not been tampered with, altered, or contaminated.
 - Acquisition: In the context of digital forensics and incident response, refers to the process of collecting data or evidence from a system or device in a manner that preserves its integrity and ensures it remains admissible for analysis or legal proceedings.
 - Reporting: In the context of incident response, digital foresics, or cybersecurity refers to the process of documenting and communicating the findings, actions, and outcomes related to a security incident, investigation, or forensic analysis.
-- Preservation
+- Preservation: In the context of digital forensics and incident response refers to the process of maintaining the integrity of potential evidence, ensuring that it remains unchanged, uncorrupted, and accessible for analysis, legal proceedings, or regulatory compliance.
 - E-discovery
